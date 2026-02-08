@@ -1,3 +1,12 @@
+---
+name: User Story
+about: Describe a functional user story
+title: ""
+labels: []
+assignees: []
+---
+
+
 # Plantilla — Historia de Usuario
 
 ## 🎯 Historia
